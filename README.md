@@ -21,5 +21,9 @@ Define quality metrics for the automated system (software) and verify them (vali
 Project Theme
 Development of software for an automated cinema management system.
 
+Documentation
+To view the full technical documentation, download the file:
+Technical design.docx (Microsoft Word format)
+
 Note
 This project was originally completed in Russian.
