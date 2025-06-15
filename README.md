@@ -1,20 +1,14 @@
 Project Objective
 The goal of this work is to:
+1)Study the requirements for technical projects involving the development of automated systems and software.
+2)Gain practical skills in technical design and documentation of project results, aligning with both domestic standards and international practices, while meeting modern industrial software production requirements.
 
-Study the requirements for technical projects involving the development of automated systems and software.
-
-Gain practical skills in technical design and documentation of project results, aligning with both domestic standards and international practices, while meeting modern industrial software production requirements.
-
-Tasks
-Describe the purpose and scope of the automated system (software).
-
-Justify selected technical solutions.
-
-Formalize architectural decisions.
-
-Analyze and formalize the technical specifications.
-
-Outline the potential applications of the proposed technical solutions.
+Tasks:
+1)Describe the purpose and scope of the automated system (software).
+2)Justify selected technical solutions.
+3)Formalize architectural decisions.
+4)Analyze and formalize the technical specifications.
+5)Outline the potential applications of the proposed technical solutions.
 
 Define quality metrics for the automated system (software) and verify them (validation) based on usage conditions.
 
